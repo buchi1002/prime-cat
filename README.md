@@ -3,7 +3,7 @@
 素数判定の処理は GCP の Functions でやっているにゃ！
 
 
-以下デモ動画
+・デモ動画
 
 https://github.com/buchi1002/prime-cat/assets/81004361/0f871962-169e-4528-bc17-eb565084d076
 
